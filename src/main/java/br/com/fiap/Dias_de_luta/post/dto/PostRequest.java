@@ -1,10 +1,10 @@
-package br.com.fiap.Square.post.dto;
+package br.com.fiap.Dias_de_luta.post.dto;
 
-
-import br.com.fiap.Square.post.Post;
-import br.com.fiap.Square.user.User;
 
 import java.time.LocalDateTime;
+
+import br.com.fiap.Dias_de_luta.post.Post;
+import br.com.fiap.Dias_de_luta.user.User;
 
 public record PostRequest(String text) {
     public Post toModel(User user) {

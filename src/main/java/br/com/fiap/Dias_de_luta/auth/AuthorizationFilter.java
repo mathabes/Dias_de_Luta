@@ -1,6 +1,5 @@
-package br.com.fiap.Square.auth;
+package br.com.fiap.Dias_de_luta.auth;
 
-import br.com.fiap.Square.user.User;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
@@ -10,6 +9,8 @@ import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
+
+import br.com.fiap.Dias_de_luta.user.User;
 
 import java.io.IOException;
 import java.util.List;

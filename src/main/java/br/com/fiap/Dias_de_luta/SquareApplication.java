@@ -1,4 +1,4 @@
-package br.com.fiap.Square;
+package br.com.fiap.Dias_de_luta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

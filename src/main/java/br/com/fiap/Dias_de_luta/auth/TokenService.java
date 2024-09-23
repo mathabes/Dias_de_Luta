@@ -1,9 +1,11 @@
-package br.com.fiap.Square.auth;
+package br.com.fiap.Dias_de_luta.auth;
 
-import br.com.fiap.Square.user.User;
-import br.com.fiap.Square.user.UserRepository;
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
+
+import br.com.fiap.Dias_de_luta.user.User;
+import br.com.fiap.Dias_de_luta.user.UserRepository;
+
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
