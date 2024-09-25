@@ -15,8 +15,8 @@ public class UserController {
     UserService service;
 
     @GetMapping
-    public List<User> findByName(@RequestParam String name) {
-        return service.findByName(name);
+    public List<User> findByName(@RequestParam String nome) {
+        return service.findByName(nome);
     }
 
     @PostMapping

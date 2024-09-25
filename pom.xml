@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.fiap</groupId>
-	<artifactId>Square</artifactId>
+	<artifactId>Dias_de_Luta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Square</name>
+	<name>Dias_de_Luta</name>
 	<description>Blog project using Spring Boot</description>
 	<url/>
 	<licenses>
