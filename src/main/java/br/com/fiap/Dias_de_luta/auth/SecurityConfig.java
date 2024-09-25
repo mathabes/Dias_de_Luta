@@ -1,4 +1,4 @@
-package br.com.fiap.Square.auth;
+package br.com.fiap.Dias_de_luta.auth;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

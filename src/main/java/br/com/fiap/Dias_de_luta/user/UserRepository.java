@@ -1,4 +1,4 @@
-package br.com.fiap.Square.user;
+package br.com.fiap.Dias_de_luta.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

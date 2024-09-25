@@ -1,4 +1,4 @@
-package br.com.fiap.Square.post;
+package br.com.fiap.Dias_de_luta.post;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

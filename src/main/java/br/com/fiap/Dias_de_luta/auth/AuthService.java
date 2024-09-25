@@ -1,8 +1,9 @@
-package br.com.fiap.Square.auth;
+package br.com.fiap.Dias_de_luta.auth;
 
-import br.com.fiap.Square.user.UserRepository;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
+
+import br.com.fiap.Dias_de_luta.user.UserRepository;
 
 @Service
 public class AuthService {

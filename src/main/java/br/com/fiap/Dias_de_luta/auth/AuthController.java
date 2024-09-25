@@ -1,4 +1,4 @@
-package br.com.fiap.Square.auth;
+package br.com.fiap.Dias_de_luta.auth;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

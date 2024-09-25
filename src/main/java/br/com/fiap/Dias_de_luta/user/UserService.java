@@ -1,4 +1,4 @@
-package br.com.fiap.Square.user;
+package br.com.fiap.Dias_de_luta.user;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;

@@ -1,5 +1,4 @@
-package br.com.fiap.Square.post;
-import br.com.fiap.Square.user.User;
+package br.com.fiap.Dias_de_luta.post;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -7,6 +6,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
+
+import br.com.fiap.Dias_de_luta.user.User;
 
 @Entity
 @Table(name = "posts")

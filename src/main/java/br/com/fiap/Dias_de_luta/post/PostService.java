@@ -1,4 +1,4 @@
-package br.com.fiap.Square.post;
+package br.com.fiap.Dias_de_luta.post;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
